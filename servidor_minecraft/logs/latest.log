@@ -63,3 +63,6 @@
 [01:35:09] [Server thread/WARN]: Rejecting UseItemOnPacket from Yumalala: Location (-394.2583753466606, 63.07072351872921, 99.1875) too far away from hit block class_2338{x=-395, y=63, z=100}.
 [01:35:09] [Server thread/WARN]: Rejecting UseItemOnPacket from Yumalala: Location (-394.2583753466606, 63.07072351872921, 99.1875) too far away from hit block class_2338{x=-395, y=63, z=100}.
 [01:49:26] [Server thread/INFO]: [Not Secure] <Yumalala> w
+[02:18:26] [Server thread/INFO]: Yumalala lost connection: Timed out
+[02:18:26] [Server thread/INFO]: Yumalala left the game
+[02:19:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
