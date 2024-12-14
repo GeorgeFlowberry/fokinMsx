@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "98967d51-00f9-4a8d-ba53-d734f86aedea",
+    "name": "Yumalala",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e5e1aa61-0148-3718-ade2-317eefd7bf71",
+    "name": "Yumalala",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
