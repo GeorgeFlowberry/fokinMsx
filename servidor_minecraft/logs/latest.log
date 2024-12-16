@@ -31,3 +31,9 @@
 [07:10:04] [Server thread/INFO]: Yumalala[/172.29.180.226:63095] logged in with entity id 22 at (-2207.024539668872, -35.0, 587.4635928883939)
 [07:10:04] [Server thread/INFO]: Yumalala joined the game
 [07:31:47] [Server thread/INFO]: Yumalala has made the advancement [Enchanter]
+[08:55:01] [Server thread/INFO]: Villager class_1646['Villager'/1920, l='ServerLevel[world]', x=-1870.19, y=79.00, z=675.31] died, message: 'Villager was slain by Zombie'
+[08:55:08] [Server thread/INFO]: Villager class_1646['Villager'/1918, l='ServerLevel[world]', x=-1869.56, y=79.00, z=675.37] died, message: 'Villager was slain by Zombie Villager'
+[08:55:13] [Server thread/INFO]: Villager class_1646['Villager'/1908, l='ServerLevel[world]', x=-1873.70, y=79.00, z=675.30] died, message: 'Villager was slain by Zombie'
+[08:55:20] [Server thread/INFO]: Villager class_1646['Villager'/1921, l='ServerLevel[world]', x=-1873.70, y=79.00, z=675.70] died, message: 'Villager was slain by Zombie Villager'
+[08:55:26] [Server thread/INFO]: Villager class_1646['Villager'/1909, l='ServerLevel[world]', x=-1873.70, y=79.00, z=675.70] died, message: 'Villager was slain by Zombie Villager'
+[08:55:32] [Server thread/INFO]: Villager class_1646['Villager'/1919, l='ServerLevel[world]', x=-1873.30, y=79.00, z=675.30] died, message: 'Villager was slain by Zombie Villager'
