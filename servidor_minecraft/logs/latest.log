@@ -32,3 +32,9 @@
 [04:38:48] [Server thread/INFO]: Done (4.217s)! For help, type "help"
 [04:39:07] [Server thread/INFO]: Yumalala[/172.29.180.226:49612] logged in with entity id 22 at (-1878.0935676957013, 76.875, 696.2134400276416)
 [04:39:07] [Server thread/INFO]: Yumalala joined the game
+[05:10:59] [Server thread/WARN]: Yumalala was kicked for floating too long!
+[05:10:59] [Server thread/INFO]: Yumalala lost connection: Flying is not enabled on this server
+[05:10:59] [Server thread/INFO]: Yumalala left the game
+[05:10:59] [Server thread/WARN]: handleDisconnection() called twice
+[05:11:33] [Server thread/INFO]: Yumalala[/172.29.180.226:63598] logged in with entity id 7603 at (-1872.6103208967686, 74.16610926093821, 719.9946836702658)
+[05:11:33] [Server thread/INFO]: Yumalala joined the game
