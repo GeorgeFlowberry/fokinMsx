@@ -45,3 +45,8 @@
 [08:53:00] [Server thread/INFO]: Yumalala joined the game
 [08:55:48] [Server thread/INFO]: Yumalala has made the advancement [What a Deal!]
 [09:12:15] [Server thread/INFO]: Villager class_1646['Librarian'/17568, l='ServerLevel[world]', x=-1861.66, y=76.00, z=694.70] died, message: 'Librarian was slain by Yumalala'
+[09:46:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1866, y=76, z=691} class_2338{x=-1865, y=75, z=691}
+[09:46:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1867, y=76, z=691} class_2338{x=-1866, y=76, z=691}
+[09:48:20] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[09:48:20] [Server thread/INFO]: Yumalala left the game
+[09:49:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
