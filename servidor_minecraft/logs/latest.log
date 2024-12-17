@@ -38,3 +38,9 @@
 [08:07:14] [Server thread/INFO]: Yumalala has made the advancement [Hot Stuff]
 [08:09:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2351, y=70, z=186} class_2338{x=-2351, y=68, z=186}
 [08:09:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2351, y=70, z=186} class_2338{x=-2351, y=68, z=186}
+[08:50:27] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[08:50:27] [Server thread/INFO]: Yumalala left the game
+[08:51:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:53:00] [Server thread/INFO]: Yumalala[/172.29.180.226:60220] logged in with entity id 15573 at (-1865.6121901141357, 76.0, 694.2003890784652)
+[08:53:00] [Server thread/INFO]: Yumalala joined the game
+[08:55:48] [Server thread/INFO]: Yumalala has made the advancement [What a Deal!]
