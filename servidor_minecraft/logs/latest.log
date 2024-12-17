@@ -38,3 +38,6 @@
 [05:10:59] [Server thread/WARN]: handleDisconnection() called twice
 [05:11:33] [Server thread/INFO]: Yumalala[/172.29.180.226:63598] logged in with entity id 7603 at (-1872.6103208967686, 74.16610926093821, 719.9946836702658)
 [05:11:33] [Server thread/INFO]: Yumalala joined the game
+[06:06:57] [Server thread/INFO]: Yumalala was blown up by Creeper
+[06:07:03] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[06:07:27] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
