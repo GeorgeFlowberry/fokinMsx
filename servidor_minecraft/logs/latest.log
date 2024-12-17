@@ -98,3 +98,7 @@
 [13:32:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1844, y=75, z=694} class_2338{x=-1844, y=76, z=692}
 [13:34:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1844, y=76, z=693} class_2338{x=-1844, y=77, z=692}
 [13:39:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1844, y=76, z=693} class_2338{x=-1843, y=76, z=692}
+[13:53:37] [Server thread/INFO]: Villager class_1646['Librarian'/48817, l='ServerLevel[world]', x=-1841.50, y=76.00, z=694.30] died, message: 'Librarian was slain by Yumalala'
+[13:53:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1840, y=76, z=693} class_2338{x=-1840, y=76, z=691}
+[13:54:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1842, y=75, z=694} class_2338{x=-1842, y=76, z=692}
+[14:00:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1859, y=77, z=694} class_2338{x=-1861, y=76, z=683}
