@@ -75,3 +75,8 @@
 [12:03:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1867, y=78, z=676} class_2338{x=-1868, y=78, z=676}
 [12:04:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1855, y=78, z=671} class_2338{x=-1855, y=76, z=671}
 [12:04:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1858, y=79, z=683} class_2338{x=-1859, y=77, z=681}
+[12:21:57] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[12:21:57] [Server thread/INFO]: Yumalala left the game
+[12:22:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:23:48] [Server thread/INFO]: Yumalala[/172.29.180.226:49601] logged in with entity id 46726 at (-1863.7732954498663, 75.0, 685.5589513173065)
+[12:23:48] [Server thread/INFO]: Yumalala joined the game
