@@ -62,3 +62,9 @@
 [11:43:18] [Server thread/INFO]: nigger<--[HERE]
 [11:45:01] [Server thread/INFO]: Yumalala[/172.29.180.226:64882] logged in with entity id 35046 at (-1857.6713579100979, 76.0, 691.9389495923816)
 [11:45:01] [Server thread/INFO]: Yumalala joined the game
+[11:52:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1865, y=79, z=689} class_2338{x=-1865, y=79, z=690}
+[11:52:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1865, y=79, z=689} class_2338{x=-1865, y=79, z=690}
+[11:52:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1865, y=79, z=689} class_2338{x=-1865, y=79, z=690}
+[11:53:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1853, y=82, z=692} class_2338{x=-1854, y=81, z=693}
+[11:53:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1853, y=82, z=692} class_2338{x=-1854, y=81, z=693}
+[11:58:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1869, y=77, z=685} class_2338{x=-1869, y=78, z=685}
