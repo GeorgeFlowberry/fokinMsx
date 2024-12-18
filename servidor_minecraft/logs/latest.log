@@ -39,3 +39,9 @@
 [03:53:21] [Server thread/INFO]: Yumalala[/172.29.180.226:54863] logged in with entity id 345 at (-1874.7158262949622, 76.0, 690.8852164081821)
 [03:53:21] [Server thread/INFO]: Yumalala joined the game
 [04:16:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1905, y=67, z=712} class_2338{x=-1898, y=67, z=712}
+[04:17:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1888, y=71, z=725}
+[04:18:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1891, y=66, z=719}
+[04:18:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1894, y=67, z=717}
+[04:21:52] [Server thread/INFO]: Villager class_1646['Librarian'/385, l='ServerLevel[world]', x=-1855.31, y=76.00, z=694.69] died, message: 'Librarian was slain by Yumalala'
+[04:26:33] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[04:26:33] [Server thread/INFO]: Yumalala left the game
