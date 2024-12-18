@@ -38,3 +38,4 @@
 [03:43:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [03:53:21] [Server thread/INFO]: Yumalala[/172.29.180.226:54863] logged in with entity id 345 at (-1874.7158262949622, 76.0, 690.8852164081821)
 [03:53:21] [Server thread/INFO]: Yumalala joined the game
+[04:16:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1905, y=67, z=712} class_2338{x=-1898, y=67, z=712}
