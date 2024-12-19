@@ -1,48 +1,44 @@
-[03:37:09] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[03:37:09] [main/INFO]: Loading 4 mods:
+[03:38:55] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[03:38:55] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[03:37:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:37:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:37:20] [main/INFO]: Loaded 1337 recipes
-[03:37:20] [main/INFO]: Loaded 1448 advancements
-[03:37:20] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:37:20] [Server thread/INFO]: Loading properties
-[03:37:20] [Server thread/INFO]: Default game type: SURVIVAL
-[03:37:20] [Server thread/INFO]: Generating keypair
-[03:37:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:37:20] [Server thread/INFO]: Using epoll channel type
-[03:37:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:37:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:37:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:37:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:37:20] [Server thread/INFO]: Preparing level "world"
-[03:37:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:25] [Server thread/INFO]: Time elapsed: 3867 ms
-[03:37:25] [Server thread/INFO]: Done (4.193s)! For help, type "help"
-[03:38:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:41:28] [Server thread/INFO]: Yumalala[/172.29.180.226:54537] logged in with entity id 21 at (-1874.7158262949622, 76.0, 690.8852164081821)
-[03:41:28] [Server thread/INFO]: Yumalala joined the game
-[03:42:02] [Server thread/INFO]: Yumalala lost connection: Disconnected
-[03:42:02] [Server thread/INFO]: Yumalala left the game
-[03:43:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:53:21] [Server thread/INFO]: Yumalala[/172.29.180.226:54863] logged in with entity id 345 at (-1874.7158262949622, 76.0, 690.8852164081821)
-[03:53:21] [Server thread/INFO]: Yumalala joined the game
-[04:16:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1905, y=67, z=712} class_2338{x=-1898, y=67, z=712}
-[04:17:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1888, y=71, z=725}
-[04:18:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1891, y=66, z=719}
-[04:18:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1887, y=67, z=719} class_2338{x=-1894, y=67, z=717}
-[04:21:52] [Server thread/INFO]: Villager class_1646['Librarian'/385, l='ServerLevel[world]', x=-1855.31, y=76.00, z=694.69] died, message: 'Librarian was slain by Yumalala'
-[04:26:33] [Server thread/INFO]: Yumalala lost connection: Disconnected
-[04:26:33] [Server thread/INFO]: Yumalala left the game
-[04:27:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:38:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:39:04] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:39:06] [main/INFO]: Loaded 1337 recipes
+[03:39:06] [main/INFO]: Loaded 1448 advancements
+[03:39:06] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:39:06] [Server thread/INFO]: Loading properties
+[03:39:06] [Server thread/INFO]: Default game type: SURVIVAL
+[03:39:06] [Server thread/INFO]: Generating keypair
+[03:39:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:39:06] [Server thread/INFO]: Using epoll channel type
+[03:39:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:39:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:39:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:39:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:39:06] [Server thread/INFO]: Preparing level "world"
+[03:39:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:39:12] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[03:39:13] [Server thread/INFO]: Time elapsed: 5848 ms
+[03:39:13] [Server thread/INFO]: Done (6.234s)! For help, type "help"
+[03:40:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:41:01] [Server thread/INFO]: Yumalala[/172.29.180.226:59858] logged in with entity id 21 at (-1891.5838308278503, 76.0, 708.8759328746116)
+[03:41:01] [Server thread/INFO]: Yumalala joined the game
+[03:41:14] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[03:41:14] [Server thread/INFO]: Yumalala left the game
+[03:42:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:43:43] [Server thread/INFO]: Yumalala[/172.29.180.226:59989] logged in with entity id 344 at (-1891.5838308278503, 76.0, 708.8759328746116)
+[03:43:43] [Server thread/INFO]: Yumalala joined the game
